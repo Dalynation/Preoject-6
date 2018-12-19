@@ -1,1 +1,23 @@
-
+{
+   "project": [
+      {
+         "id": "0",
+         "project_name": "API Request",
+         "description": "A site that grabs information from another site using API. The data that's being retreived is a list of random users and their personal deatils. ",
+         "technologies": [
+            "Java Script",
+            "HTML",
+            "CSS",
+            "API",
+            "jQuery"
+         ],
+         "live_link": "",
+         "github_link": "",
+         "image_urls": [
+            "images/API_1.png",
+            "images/API_2.png",
+            "images/API_3.png"
+         ]
+      }
+   ]
+}
