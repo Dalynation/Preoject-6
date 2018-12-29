@@ -1,5 +1,5 @@
 {
-   "project": [
+   "projects": [
       {
          "id": "0",
          "project_name": "API Request",
@@ -11,8 +11,8 @@
             "API",
             "jQuery"
          ],
-         "live_link": "",
-         "github_link": "",
+         "live_link": "https://dalynation.github.io/API-REQUEST/",
+         "github_link": "https://github.com/Dalynation/API-REQUEST.git",
          "image_urls": [
             "images/API_1.png",
             "images/API_2.png",
